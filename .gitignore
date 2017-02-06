@@ -1,0 +1,4 @@
+# ignore generated csv files
+*.csv
+# ignore exe files
+*.exe
