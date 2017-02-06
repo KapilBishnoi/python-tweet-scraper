@@ -1,0 +1,2 @@
+# Download Webdriver for Chrome from https://sites.google.com/a/chromium.org/chromedriver/
+# Copy chromedriver executable in this directory
