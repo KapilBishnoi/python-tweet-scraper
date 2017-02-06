@@ -1,20 +1,20 @@
 # python-tweet-scraper
 
 
-## Follow below steps to setup python-tweet-scraper
+## Follow the below steps to setup python-tweet-scraper
 
 
-### Install Python 3 (https://www.python.org/downloads)
+### 1. Install [Python 3](https://www.python.org/downloads)
 
-### Install Selenium for Python https://pypi.python.org/pypi/selenium
-
-
-### Download Webdriver for Chrome from https://sites.google.com/a/chromium.org/chromedriver/
-
-### Copy chromedriver executable to the root path of this repository
+### 2. Install [Selenium for Python](https://pypi.python.org/pypi/selenium)
 
 
-### Copy complete URL from the Twitter Advanced Search result and paste in twitter-advanced-search-url.txt
+### 3. Download [Webdriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/)
+
+### 4. Copy chromedriver executable to the root path of this repository
+
+
+### 5. Copy complete URL from the Twitter Advanced Search result and paste in twitter-advanced-search-url.txt
 
 This URL will show all the tweets to be downloaded
 
