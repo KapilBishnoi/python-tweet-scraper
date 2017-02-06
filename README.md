@@ -21,9 +21,9 @@ This URL will show all the tweets to be downloaded
 twitter-advanced-search-url.txt will have only ONE line i.e. URL of Twitter Advanced Search result page
 
 
-### Execute below command from command line
+### 6. Execute the below command from command line
  
 python python-tweet-scraper.py
 
 
-### A .csv file will get generated, this file will have all the tweets from the result page of Twitter Advanced Search.
+### 7. A <timestamp>-tweets.csv file will get generated, this file will have all the tweets from the result page of Twitter Advanced Search.
