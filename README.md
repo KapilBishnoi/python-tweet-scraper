@@ -26,4 +26,6 @@ twitter-advanced-search-url.txt will have only ONE line i.e. URL of Twitter Adva
 python python-tweet-scraper.py
 
 
-### 7. A csv file will get generated with current timestamp in the name, this file will have all the tweets from the result page of Twitter Advanced Search.
+### 7. A csv file will get generated in the root path of this repository
+
+This csv file will have all the tweets from the result page of Twitter Advanced Search
